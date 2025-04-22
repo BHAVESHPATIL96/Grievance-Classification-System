@@ -51,11 +51,7 @@ I trained and evaluated the following classifiers:
 - NLTK
 - Scikit-learn
 
-## 📸 Sample Output (Optional)
-*You can add screenshots or confusion matrices here if needed.*
 
-## 🏷️ License
-This project is licensed under the MIT License.
 
 ---
 
