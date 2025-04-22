@@ -2,9 +2,6 @@
 This project applies Natural Language Processing and Machine Learning to classify customer complaints into categories like credit reporting, loans, and credit cards. It uses techniques such as stopword removal, bag-of-words. Ideal for anyone exploring practical NLP applications in the financial domain.
 
 
-# 🛠️ Grievance Classification System
-
-This project focuses on classifying consumer complaints into relevant financial product categories (e.g., credit reporting, loan issues, credit cards) using Natural Language Processing and Machine Learning.
 
 ## 📌 Problem Statement
 The aim was to automate the categorization of customer grievances submitted to financial institutions, enabling better issue tracking, response prioritization, and service improvement.
